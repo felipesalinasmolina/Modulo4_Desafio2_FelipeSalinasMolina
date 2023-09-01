@@ -1,0 +1,28 @@
+#root {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1,
+p {
+  font-family: sans-serif;
+}
+.icons,
+.alerta {
+  display: flex;
+  cursor: pointer;
+  justify-content: center;
+  align-content: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  font-size: 2rem;
+}
+.fa-brands {
+  margin: 0 0.3rem 1rem 0.3rem;
+}
+
+.formulario {
+  margin: 1rem 0 1rem 0;
+}
